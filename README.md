@@ -8,7 +8,7 @@ Written entirely in Java.
 
 <h3> How to run it </h3>
 <ol>
-  <li>Make sure you have an IDE (such as jGRASP or VS Code) and the JDK installed. You can find instructions to download jGRASP <a href="https://courses.cs.washington.edu/courses/cse14x/software2-openJDK/">here</a>.</li>
+  <li>Make sure you have an IDE (such as jGRASP or VS Code) and the JDK installed. You can find instructions to download+install jGRASP and the JDK <a href="https://courses.cs.washington.edu/courses/cse14x/software2-openJDK/">here</a>.</li>
   <li>Download the program. You can do this by clicking the green "Code" button, which is above the list of files, and under the bar with all the tabs (settings, actions, projects, etc). Select "Download ZIP" to download the ZIP file.</li>
   <li>Open the main file, "FoundedInCedar.java", in your IDE.</li>
   <li>Run the java file. In some IDEs, you may need to compile it before you can run it. In jGRASP, you can compile a file by hitting the green plus icon towards the top of the window. Once this is done, hit the button with the running man icon to run it (this button is to the right of the green plus).</li>
