@@ -13,7 +13,8 @@ Written entirely in Java.
   <li>Open the main file, "FoundedInCedar.java", in your IDE.</li>
   <li>Run the java file. In some IDEs, you may need to compile it before you can run it. In jGRASP, you can compile a file by hitting the green plus icon towards the top of the window. Once this is done, hit the button with the running man icon to run it (this button is to the right of the green plus).</li>
   <li>Success!</li>
-
+</ol>
+  
 <h3> Issues </h3>
 Right now, it only runs in the terminal, though I'd like to look into getting it its own window.
 
