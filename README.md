@@ -16,8 +16,8 @@ Written entirely in Java.
 </ol>
   
 <h3> Issues </h3>
-Right now, it only runs in the terminal, though I'd like to look into getting it its own window.
+Right now, it only runs in the terminal, though we'd like to look into getting it its own window.
 
-NPC interaction doesn't work yet which is... a major thing. You need it in order to complete the game.
+NPC interaction doesn't work yet which is... a major thing. You need it in order to complete the game. (We have written the dialogue that will be used though. You can find that in the 'globals' folder.)
   
 The game is sort of just a walking and taking simulator at this point.
