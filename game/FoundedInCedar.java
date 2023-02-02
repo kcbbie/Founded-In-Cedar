@@ -10,6 +10,11 @@ import java.util.Scanner;
 * @author Blake Chandler
 * @since 5-16-22
 */
+
+// This is the difference in this program! I'm so sorry but I don't have time to really finish this
+// but I want to submit this assignment for the sake of showing that I can, in fact, commit changes
+// and resolve issues.
+
 public class FoundedInCedar {
     static Game game;
     static String name;
